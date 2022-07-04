@@ -13,7 +13,7 @@ header{
   width: 100%;
   height: 400px;
   margin-bottom: 20px;
-  background-image: url(heading-logo.jpg);
+  background-image: url(img1/heading-logo.jpg);
   background-size: cover;
   background-position: bottom;
 }

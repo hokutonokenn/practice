@@ -38,21 +38,21 @@ main{
 
 .main-box-image1{
   height: 150px;
-  background-image:url(flow01.png);
+  background-image:url(img1/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .main-box-image2{
   height: 150px;
-  background-image:url(flow02.png);
+  background-image:url(img1/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .main-box-image3{
   height: 150px;
-  background-image:url(flow03.png);
+  background-image:url(img1/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
